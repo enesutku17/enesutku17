@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello 👋
 
+Just an ordinary YTU CE Student
 <!--
 **enesutku17/enesutku17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
